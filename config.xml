@@ -25,4 +25,9 @@
     </platform>
     <engine name="browser" spec="^5.0.3" />
     <engine name="android" spec="^7.0.0" />
+    <preference name="orientation" value="portrait"/>
+	<preference name="fullscreen" value="true"/>
+	<preference name="permissions" value="none"/>
+	<preference name="android-mindSdkVersion" value="16"/>
+	<gap:platform name="android"/>
 </widget>
