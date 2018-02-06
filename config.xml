@@ -3,14 +3,14 @@
 	version="0.0.1"
 	xmlns="htpp://w3.org/ns/widgets"
 	xmlns:cdv="htpp://cordova.apache.org/ns/1.0">
+
+	<name>Garçonete Só de Cenoura</name>
+
+	<description>
+		App de uso das garçonetes do restaurante Só de Cenoura.
+	</description>
+
+	<author href="http://sergiolopes.org" email="qualquer@sergiolopes.org">
+		Sérgio Lopes
+	</author>
 </widget>
-
-<name>Garçonete Só de Cenoura</name>
-
-<description>
-	App de uso das garçonetes do restaurante Só de Cenoura.
-</description>
-
-<author href="http://sergiolopes.org" email="qualquer@sergiolopes.org">
-	Sérgio Lopes
-</author>
